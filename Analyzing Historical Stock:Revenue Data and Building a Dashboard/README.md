@@ -48,5 +48,9 @@ Install the required libraries if not already available:
 pip install yfinance beautifulsoup4 html5lib matplotlib pandas
 ```
 
+This project was completed as part of the IBM Data Science Certificate.  
+[View Certificate on Coursera](https://coursera.org/share/f784e88f51b3b6efe63007c361f3608c)
+
+--
 ## License
 This project is part of the IBM Data Science Certification coursework and is intended for educational purposes only.
